@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+body {
+    /* ป้องกันการเลื่อนหน้าจอในหน้า Board */
+    overflow: hidden; 
+    font-family: 'Inter', sans-serif; /* ถ้าอยากได้ฟอนต์สวยๆ แนะนำไปหา Google Fonts มาใส่ */
+}
